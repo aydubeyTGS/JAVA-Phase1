@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/aydubeyteksyste/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+2329541663.index
